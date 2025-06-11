@@ -1,0 +1,25 @@
+.portfolio{
+  text-align: center;
+  font-weight: bold;
+  font-size: 36px; /* You can adjust size */
+}
+.container {
+  display: flex;
+  height: 130;
+}
+
+.column1 {
+  flex: 1;
+  background-color:rgb(218, 198, 241); 
+  padding:  140px;
+  color: #000;
+}
+
+.column {
+  flex: 1;
+  background-color:rgb(248, 212, 248);
+  padding:  140px;
+  color: #000;
+}
+
+
